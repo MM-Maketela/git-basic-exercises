@@ -1,0 +1,1000 @@
+ 1128  scrcpy --s
+ 1129  scrcpy
+ 1130  scrcpy --s R58R308R5HX
+ 1131  man scrcpy
+ 1132  help scrcpy
+ 1133  clear
+ 1134  scrcpy
+ 1135  scrcpy
+ 1136  cearl
+ 1137  clear
+ 1138  exit
+ 1139  exit
+ 1140  scrcpy
+ 1141  clear
+ 1142  scrcpy
+ 1143  cd ..
+ 1144  ls
+ 1145  mkdir from_laptop
+ 1146  scrcpy
+ 1147  reboot
+ 1148  scrcpy
+ 1149  touch solved.txt
+ 1150  nano solved.txt 
+ 1151  exit
+ 1152  arp -a
+ 1153  scrcpy
+ 1154  scrcpy
+ 1155  reboot
+ 1156  wine
+ 1157  sudo apt install wine-development
+ 1158  clear
+ 1159  sudo dpkg --add-architecture i386
+ 1160  sudo apt update
+ 1161  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 8771ADB0816950D8
+ 1162  sudo apt update
+ 1163  wget -qO- https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add -
+ 1164  sudo apt install software-properties-common
+ 1165  sudo apt-add-repository "deb http://dl.winehq.org/wine-builds/ubuntu/ $(lsb_release -cs) main"
+ 1166  clear
+ 1167  sudo apt install --install-recommends winehq-stable
+ 1168  sudo apt-get --fix-missing
+ 1169  sudo apt --fix-missing
+ 1170  sudo apt -fix-missing
+ 1171  sudo --fix-missing
+ 1172  sudo apt-get update
+ 1173  sudo apt-get update --fix-missing
+ 1174  sudo apt install --install-recommends winehq-stable
+ 1175  sudo apt update
+ 1176  clear
+ 1177  wine
+ 1178  wine --version
+ 1179  winecfg
+ 1180  scrcpy
+ 1181  reboot
+ 1182  scrcpy
+ 1183  ping google.com
+ 1184  scrcpy
+ 1185  scrcpy
+ 1186  scrcpy
+ 1187  reboot
+ 1188  sudo apt update
+ 1189  sudo apt-get upgrade -y
+ 1190  scrcpy
+ 1191  sudo apt-get upgrade -y
+ 1192  clear
+ 1193  scrcpy
+ 1194  code .
+ 1195  scrcpy
+ 1196  cleasr
+ 1197  clear
+ 1198  javac HandleArray.java 
+ 1199  javac HandleArray.java -Xlint
+ 1200  clear
+ 1201  java HandleArray 
+ 1202  cleawr
+ 1203  clear
+ 1204  scrcpy
+ 1205  scrcpy0
+ 1206  scrcpy
+ 1207  mkdir season1
+ 1208  mkdir season2
+ 1209  mkdir season3
+ 1210  mkdir season4
+ 1211  scrcpy
+ 1212  reboot
+ 1213  scrcpy
+ 1214  ifconfig
+ 1215  scrcpy
+ 1216  clear
+ 1217  ls
+ 1218  clear
+ 1219  reboot
+ 1220  sudo apt update
+ 1221  sudo apt get upgrade -y
+ 1222  sudo apt-get upgrade -y
+ 1223  clear
+ 1224  scrcpy
+ 1225  reboot
+ 1226  scrcpy
+ 1227  scrcpy
+ 1228  touch algorithm_handling.txt
+ 1229  touch pattern_reg.txt
+ 1230  touch practice_advice.txt
+ 1231  scrcpy
+ 1232  scrcpy
+ 1233  clear
+ 1234  scrcpy
+ 1235  ubuntu --version
+ 1236  clear
+ 1237  ls
+ 1238  exit
+ 1239  wine
+ 1240  ls
+ 1241  cd Downloads/
+ 1242  ls
+ 1243  wine WhatsAppSetup.exe 
+ 1244  cl
+ 1245  clear
+ 1246  cd 
+ 1247  sudo apt-get install winetricks
+ 1248  winetricks dotnet40
+ 1249  winetricks dotnet4.5.2
+ 1250  winetricks dotnet452
+ 1251  sudo dpkg --add-architecture i386
+ 1252  sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+ 1253  ls
+ 1254  cd Downloads/
+ 1255  ls
+ 1256  cd 
+ 1257  sudo dpkg --add-architecture i386
+ 1258  clear
+ 1259  sudo mkdir -pm755 /etc/apt/keyrings
+ 1260  sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+ 1261  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/focal/winehq-focal.sources
+ 1262  sudo apt update
+ 1263  sudo apt install --install-recommends winehq-stable
+ 1264  sudo apt autoremove
+ 1265  cleasr
+ 1266  clear
+ 1267  node -v
+ 1268  cd Downloads/
+ 1269  wine WhatsAppSetup.exe 
+ 1270  clear
+ 1271  scrcpy
+ 1272  scrcpy
+ 1273  clear
+ 1274  sudo ap-get update
+ 1275  sudo apt-get update
+ 1276  ./install.sh 
+ 1277  wine
+ 1278  cd Downloads/
+ 1279  ls
+ 1280  wine WhatsAppSetup.exe 
+ 1281  cd 
+ 1282  winecfg
+ 1283  clear
+ 1284  cd Downloads/
+ 1285  ls
+ 1286  wine WhatsAppSetup.exe 
+ 1287  cd 
+ 1288  winetricks dotnet40
+ 1289  winetricks dotnet45
+ 1290  cleasr
+ 1291  clear
+ 1292  winetricks msiserver
+ 1293  winecfg
+ 1294  winetricks corefonts
+ 1295  winetricks dotnet45
+ 1296  cd Downloads/
+ 1297  wine WhatsAppSetup.exe 
+ 1298  winecfg
+ 1299  wine WhatsAppSetup.exe 
+ 1300  sudo wine WhatsAppSetup.exe 
+ 1301  wine WhatsAppSetup.exe 
+ 1302  scrcpy
+ 1303  sudo dpkg --add-architecture i386
+ 1304  sudo apt update
+ 1305  sudo apt install wine64 wine32
+ 1306  clear
+ 1307  sudo apt update
+ 1308  scrcpy
+ 1309  cd ..
+ 1310  nano steps_to_take_when_building_website.txt
+ 1311  touch framework.txt
+ 1312  nano framework.txt 
+ 1313  sudo apt update
+ 1314  clear
+ 1315  exit
+ 1316  scrcpy
+ 1317  ./install.sh 
+ 1318  scrcpy
+ 1319  scrcpy
+ 1320  code .
+ 1321  scrcpy
+ 1322  npm start
+ 1323  scrcpy
+ 1324  clear
+ 1325  code .
+ 1326  scrcpy
+ 1327  cd ..
+ 1328  touch javascript
+ 1329  ls
+ 1330  rm javascript 
+ 1331  mkdir javascript
+ 1332  cd javascript/
+ 1333  code .
+ 1334  node Numbers.js 
+ 1335  clear
+ 1336  node Numbers.js 
+ 1337  clear
+ 1338  node OddNumbers.js 
+ 1339  clear
+ 1340  node MultiplicationWithSeven.js 
+ 1341  clear
+ 1342  node MultiplicationWithSeven.js 
+ 1343  clear
+ 1344  node Test.js 
+ 1345  scrcpy
+ 1346  npm start
+ 1347  code .
+ 1348  scrcpy
+ 1349  scrcpy
+ 1350  cleasr
+ 1351  clear
+ 1352  scrcpy
+ 1353  whoami
+ 1354  cat /proc/cpuinfo  | grep 'name'| uniq
+ 1355  scrcpy
+ 1356  whoami
+ 1357  scrcpy
+ 1358  whoami
+ 1359  scrcpy
+ 1360  whoami
+ 1361  scrcpy
+ 1362  mdkir akhona
+ 1363  mkdir akhona
+ 1364  ls
+ 1365  rm akhona/
+ 1366  rmdir akhona/
+ 1367  cd Desktop/
+ 1368  mkdir akhona
+ 1369  cd akhona/
+ 1370  code .
+ 1371  cd .
+ 1372  ls
+ 1373  mkdir ps3_pics
+ 1374  rmdir ps3_pics/
+ 1375  scrcpy
+ 1376  top
+ 1377  clear
+ 1378  man top
+ 1379  top
+ 1380  cleawr
+ 1381  clear
+ 1382  exit
+ 1383  scrcpy
+ 1384  code .
+ 1385  scrcpy
+ 1386  npm create-react-app test
+ 1387  npx create-react-app test
+ 1388  npm start
+ 1389  cd test/
+ 1390  npm start
+ 1391  scrcpy
+ 1392  code .
+ 1393  scrcpy
+ 1394  cleawr
+ 1395  clear
+ 1396  exit
+ 1397  scrcpy
+ 1398  clear
+ 1399  scrcpy
+ 1400  mkdir music_
+ 1401  scrcpy
+ 1402  git ninit 
+ 1403  git init
+ 1404  clear
+ 1405  git add .
+ 1406  git commit -m "my test commit"
+ 1407  touch README.md
+ 1408  ls
+ 1409  git commit -m "my test commit"
+ 1410  git add .
+ 1411  git commit -m "my first commit"
+ 1412  clear
+ 1413  git push
+ 1414  git remote add origin https://github.com/MM-Maketela/management-ndlovu.git
+ 1415  git push origin
+ 1416  git push --set-upstream origin master
+ 1417  git push origin 
+ 1418  clear
+ 1419  crate-react-app ./
+ 1420  npx crate-react-app ./
+ 1421  npx crate-react-app .
+ 1422  npx create-react-app .
+ 1423  git add .
+ 1424  exit
+ 1425  code .
+ 1426  code .
+ 1427  npx create-react-app .
+ 1428  clear
+ 1429  npm run
+ 1430  npm start
+ 1431  git add .
+ 1432  git commit -m "changed pg image
+ 1433  "
+ 1434  git push
+ 1435  npm build
+ 1436  npm run build
+ 1437  npm run deploy
+ 1438  cleasr
+ 1439  clear
+ 1440  scrcpy
+ 1441  code .
+ 1442  code .
+ 1443  scrcpy
+ 1444  code .
+ 1445  git init 
+ 1446  npx create-react-app .
+ 1447  clear
+ 1448  git remote add origin https://github.com/MM-Maketela/printwise.git
+ 1449  git push --set-upstream origin master
+ 1450  git add .
+ 1451  git commit -m "first commit"
+ 1452  git push
+ 1453  git push --set-upstream origin master
+ 1454  cleasr
+ 1455  clear
+ 1456  sudo /opt/lampp/lampp start
+ 1457  sudo apt-get update
+ 1458  sudo apt-get upgrade -y
+ 1459  exit
+ 1460  sudo apt-update
+ 1461  sudo apt update
+ 1462  exit
+ 1463  scrcpy
+ 1464  npm run dev
+ 1465  npm start
+ 1466  npmstart
+ 1467  npm run dev
+ 1468  clear
+ 1469  npm start
+ 1470  npm start
+ 1471  scrcpy
+ 1472  code .
+ 1473  code .
+ 1474  code .
+ 1475  sudo /opt/lampp/lampp start
+ 1476  scrcpy
+ 1477  npm start
+ 1478  scrcpy
+ 1479  npm start
+ 1480  npm start
+ 1481  npm start
+ 1482  scrcpy
+ 1483  reboot
+ 1484  npm start
+ 1485  scrcpy
+ 1486  code .
+ 1487  scrcpy
+ 1488  npm start
+ 1489  clear
+ 1490  exit
+ 1491  code .
+ 1492  npm start
+ 1493  cd
+ 1494  sudo /opt/lampp/lampp start
+ 1495  reboot
+ 1496  scrcpy
+ 1497  code .
+ 1498  npm start
+ 1499  npm start
+ 1500  scrcpy
+ 1501  sudo /opt/lampp/lampp start
+ 1502  npm start
+ 1503  npm start
+ 1504  npm start
+ 1505  scrcpy
+ 1506  sudo /opt/lampp/lampp start
+ 1507  exit
+ 1508  npm start
+ 1509  'clesar
+ 1510  exit
+ 1511  '
+ 1512  clear
+ 1513  npm start
+ 1514  npm start
+ 1515  code .
+ 1516  code .
+ 1517  code .
+ 1518  scrcpy
+ 1519  code .
+ 1520  git add .
+ 1521  git commit -m "latest update"
+ 1522  git push 
+ 1523  git add .
+ 1524  git push
+ 1525  git add .
+ 1526  git commit -m "latest update"
+ 1527  git push
+ 1528  cd ..
+ 1529  mkdir test_web_code
+ 1530  cd test_web_code/
+ 1531  git clone https://github.com/MM-Maketela/NMCuts-Beautique.git
+ 1532  ls
+ 1533  cd NMCuts-Beautique/
+ 1534  npm start
+ 1535  npm i
+ 1536  npm start
+ 1537  exit
+ 1538  code .
+ 1539  clear
+ 1540  npm start
+ 1541  npm i
+ 1542  cleasr
+ 1543  clear
+ 1544  npm i
+ 1545  npm start
+ 1546  ls
+ 1547  code .
+ 1548  npm i
+ 1549  git pull
+ 1550  npm start
+ 1551  clear
+ 1552  exit
+ 1553  scrcpy
+ 1554  code .
+ 1555  npm start
+ 1556  npm start
+ 1557  npm start
+ 1558  scrcpy
+ 1559  npm start
+ 1560  scrcpy
+ 1561  cd ..
+ 1562  mdkir yes_program
+ 1563  mkdir yes_program
+ 1564  cd yes_program/
+ 1565  cd
+ 1566  scrcpy
+ 1567  scrcpy
+ 1568  code .
+ 1569  sudo /opt/lampp/lampp start
+ 1570  exit
+ 1571  code .
+ 1572  scrcpy
+ 1573  code . 
+ 1574  scrcpy
+ 1575  rebboot
+ 1576  reboot
+ 1577  npm install react-redux
+ 1578  clear
+ 1579  npm install store-js
+ 1580  clear
+ 1581  npm start
+ 1582  npm start
+ 1583  npm start
+ 1584  npm start
+ 1585  sudo /opt/lampp/lampp start
+ 1586  reboot
+ 1587  npm install --save redux react-redux
+ 1588  clear
+ 1589  scrcpy
+ 1590  sudo /opt/lampp/lampp start
+ 1591  scrcpy
+ 1592  reboot
+ 1593  scrcpy
+ 1594  code .
+ 1595  npm start
+ 1596  npm start
+ 1597  code .
+ 1598  npm start
+ 1599  npm i redux react-redux
+ 1600  clear
+ 1601  npm install @reduxjs/toolkit
+ 1602  sudo /opt/lampp/lampp start
+ 1603  npm start
+ 1604  npm start
+ 1605  scrcpy
+ 1606  npm start
+ 1607  code .
+ 1608  scrcpy
+ 1609  npm start
+ 1610  scrcpy
+ 1611  cd ..
+ 1612  mkdir thumamina-steel-works 
+ 1613  code .
+ 1614  cd thumamina-steel-works/
+ 1615  code .
+ 1616  scrcpy
+ 1617  touch magogo.txt
+ 1618  scrcpy
+ 1619  code .
+ 1620  scrcpy
+ 1621  code .
+ 1622  scrcpy
+ 1623  reboot
+ 1624  scrcpy
+ 1625  sudo apt update
+ 1626  apt list --upgradeable
+ 1627  sudo apt upgrade -y
+ 1628  sudo apt update
+ 1629  scrcpy
+ 1630  reboot
+ 1631  systemctl reboot -i
+ 1632  scrcpy
+ 1633  scrcpy
+ 1634  touch info.txt
+ 1635  cd 
+ 1636  systemctl reboot -i
+ 1637  scrcpy
+ 1638  reboot
+ 1639  scrcpy
+ 1640  scrcpy
+ 1641  reboot
+ 1642  scrcpy
+ 1643  reboot
+ 1644  systemctl reboot -i
+ 1645  systemctl status reboot.target
+ 1646  reboot
+ 1647  scrcpy
+ 1648  reboot
+ 1649  systemctl reboot -i
+ 1650  scrcpy
+ 1651  reboot
+ 1652  scrcpy
+ 1653  scrcpy
+ 1654  sudo chmod 
+ 1655  chmod
+ 1656  sudo chmod +x setup.exe 
+ 1657  scrcpy
+ 1658  scrcpy
+ 1659  sudo apt-get install gnome-disk-utility
+ 1660  sudo apt update
+ 1661  scrcpy
+ 1662  sudo gnome-disks
+ 1663  scrcpy
+ 1664  nano test.txt
+ 1665  scrcpy
+ 1666  sudo apt update
+ 1667  sudo apt upgrade -y
+ 1668  exit
+ 1669  scrcpy
+ 1670  mkdir dean 
+ 1671  mkdir dean
+ 1672  scrcpy
+ 1673  cd ..
+ 1674  mkdir umuzi_bootcamp
+ 1675  cd umuzi_bootcamp/
+ 1676  code .
+ 1677  scrcpy
+ 1678  node task2
+ 1679  node task2.js
+ 1680  node task2
+ 1681  clear
+ 1682  exit
+ 1683  node task2
+ 1684  scrcpy
+ 1685  code .
+ 1686  code .
+ 1687  cd
+ 1688  scrcpy
+ 1689  code .
+ 1690  scrcpy
+ 1691  sudo apt update
+ 1692  sudo apt upgrade
+ 1693  clera
+ 1694  clear
+ 1695  sudo dpkg --add-architecture i386
+ 1696  sudo mkdir -pm755 /etc/apt/keyrings
+ 1697  sudo wget -O /etc/apt/keyrings/winehq-archive.key
+ 1698  sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+ 1699  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/focal/winehq-focal.sources
+ 1700  sudo apt update
+ 1701  sudo apt install --install-recommends winehq-stable
+ 1702  clear
+ 1703  sudo apt update
+ 1704  clear
+ 1705  wine
+ 1706  cd Downloads/
+ 1707  clear
+ 1708  cat 1.-Your-history.md 
+ 1709  cleasr
+ 1710  clear
+ 1711  sudo apt remove --purge wine* fonts-wine
+ 1712  clear
+ 1713  wine 
+ 1714  scrcpy
+ 1715  sudo strings /sys/firmware/acpi/tables/MSDM
+ 1716  scrcpy
+ 1717  code .
+ 1718  scrcpy
+ 1719  ls /
+ 1720  clera
+ 1721  clear
+ 1722  ls
+ 1723  ls /home/
+ 1724  ls /home/mafa/Desktop/
+ 1725  clear
+ 1726  ls .
+ 1727  cd 
+ 1728  cleasr
+ 1729  cd home
+ 1730  cd ~
+ 1731  clear
+ 1732  scrcpy
+ 1733  pwd
+ 1734  pwd /
+ 1735  ls /home/
+ 1736  ls /
+ 1737  clear
+ 1738  ls
+ 1739  clear
+ 1740  ls man
+ 1741  man ls
+ 1742  ls home
+ 1743  scrcpy
+ 1744  ls
+ 1745  man mkdir
+ 1746  cd /
+ 1747  cd 
+ 1748  cler
+ 1749  exit
+ 1750  clear
+ 1751  clesar
+ 1752  cls
+ 1753  clear
+ 1754  code .
+ 1755  scrcpy
+ 1756  git clone git@github.com:Umuzi-org/Mafa-Maketela-394-bash-for-bootcamp-.git
+ 1757  clear
+ 1758  ls
+ 1759  git clone git@github.com:Umuzi-org/Mafa-Maketela-394-bash-for-bootcamp-.git
+ 1760  clear
+ 1761  ls
+ 1762  cd home
+ 1763  ls
+ 1764  cd Downloads
+ 1765  ls
+ 1766  scrcpy
+ 1767  cd home
+ 1768  scrcpy
+ 1769  man man
+ 1770  clea
+ 1771  cleasr
+ 1772  clear
+ 1773  rmdir 
+ 1774  man rmdir
+ 1775  man rmdir -rf
+ 1776  man rm 
+ 1777  git -v
+ 1778  git --version
+ 1779  clear
+ 1780  sudo apt update
+ 1781  clear
+ 1782  sudo apt install python3-apt
+ 1783  clear
+ 1784  cd Downloads/
+ 1785  chmod a+x aptsources-cleanup.pyz
+ 1786  sudo ./aptsources-cleanup.pyz
+ 1787  clear
+ 1788  sudo apt update
+ 1789  sudo ./aptsources-cleanup.pyz
+ 1790  clear
+ 1791  sudo apt update
+ 1792  sudo ./aptsources-cleanup.pyz
+ 1793  cd 
+ 1794  gedit /etc/apt/sources
+ 1795  gedit /etc/apt/sources.list
+ 1796  code /etc/apt/sources.list
+ 1797  code /etc/apt/sources.list.d/winehq-focal.sources
+ 1798  sudo nano /etc/apt/sources.list.d/winehq-focal.sources
+ 1799  sudo apt update
+ 1800  cleer
+ 1801  clear
+ 1802  sudo apt update
+ 1803  exit
+ 1804  clear
+ 1805  git log
+ 1806  reboot
+ 1807  scrcpy
+ 1808  exit
+ 1809  scrcpy
+ 1810  exit
+ 1811  scrcpy
+ 1812  sudo apt update
+ 1813  scrcpy
+ 1814  npm start
+ 1815  node -v
+ 1816  cd ..
+ 1817  clear
+ 1818  npx create-next-app
+ 1819  ls
+ 1820  npx create-next-app thumamina-steel-works
+ 1821  npm create-next-app thumamina-steel-works
+ 1822  cleasr
+ 1823  ckear
+ 1824  clear
+ 1825  npx create-next-app 
+ 1826  code .
+ 1827  sudo apt update
+ 1828  curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
+ 1829  clear
+ 1830  curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
+ 1831  exit
+ 1832  node -g
+ 1833  node -v
+ 1834  clear
+ 1835  exit
+ 1836  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+ 1837  nvm install 20
+ 1838  sudo apt update
+ 1839  exit
+ 1840  sudo /opt/lampp/lampp start
+ 1841  nvm install 20
+ 1842  node -v
+ 1843  sudo apt update 
+ 1844  exit
+ 1845  node -v
+ 1846  cd 
+ 1847  ls
+ 1848  cd Desktop/
+ 1849  ls
+ 1850  scrcpy
+ 1851  cd ..
+ 1852  ls
+ 1853  clear
+ 1854  ls
+ 1855  npm -v
+ 1856  npx create-next-app
+ 1857  cd thumamina-steel-works/
+ 1858  code .
+ 1859  scrcpy
+ 1860  npm run dev
+ 1861  scrcpy
+ 1862  clear
+ 1863  npm run dev
+ 1864  scrcpy
+ 1865  cd ..
+ 1866  npx create-next-app thumamina-steel-works-
+ 1867  scrcpy
+ 1868  clear
+ 1869  npm run dev
+ 1870  wine
+ 1871  sudo apt update
+ 1872  scrcpy
+ 1873  code .
+ 1874  scrcpy
+ 1875  npm run devv
+ 1876  npm run dev
+ 1877  npm start
+ 1878  npm run dev
+ 1879  cd ..
+ 1880  npx create-react-app thumamina-steel-works-
+ 1881  cd thumamina-steel-works-
+ 1882  code .
+ 1883  scrcpy
+ 1884  exit
+ 1885  scrcpy
+ 1886  reboot
+ 1887  npm i react-router-dom --save
+ 1888  clear
+ 1889  npm start
+ 1890  scrcpy
+ 1891  code .
+ 1892  npm start
+ 1893  scrcpy
+ 1894  npms start
+ 1895  npm start
+ 1896  code .
+ 1897  scrcpy
+ 1898  clear
+ 1899  npm start
+ 1900  scrcpy
+ 1901  man man
+ 1902  man woman
+ 1903  npm start
+ 1904  man idiots
+ 1905  reboot
+ 1906  bluetooth
+ 1907  reboot
+ 1908  scrcpy
+ 1909  clear
+ 1910  code .
+ 1911  scrcpy
+ 1912  npm start
+ 1913  npm install react-type-animation
+ 1914  clear
+ 1915  npm start
+ 1916  scrcpy
+ 1917  npm start
+ 1918  scrcpy
+ 1919  sudo apt update
+ 1920  cd Downloads/
+ 1921  ls
+ 1922  sudo nautilus
+ 1923  ./Ventoy2Disk.sh 
+ 1924  ./Ventoy2Disk.sh -i /dev/sdb
+ 1925  sudo ./Ventoy2Disk.sh -i /dev/sdb
+ 1926  scrcpy
+ 1927  reboot
+ 1928  scrcpy
+ 1929  ls
+ 1930  mkdir test
+ 1931  mkdir testcamp
+ 1932  cd testcamp/
+ 1933  touch test
+ 1934  cd ..
+ 1935  rm -r testcamp/
+ 1936  ls
+ 1937  mkdir testcamp
+ 1938  cd testcamp/
+ 1939  touch test.txt
+ 1940  ls
+ 1941  cd ..
+ 1942  ls
+ 1943  rmdir testcamp/
+ 1944  rmdir -r testcamp/
+ 1945  rm -r testcamp/
+ 1946  scrcpy
+ 1947  su -s
+ 1948  su --a
+ 1949  su -a
+ 1950  clear
+ 1951  man su
+ 1952  su
+ 1953  sudo su
+ 1954  scrcpy
+ 1955  mkdir movies
+ 1956  ls
+ 1957  rm movies/
+ 1958  cd movies/
+ 1959  ls
+ 1960  clear
+ 1961  cd 
+ 1962  rmdir movies/
+ 1963  ls
+ 1964  clear
+ 1965  scrcpy
+ 1966  clear
+ 1967  scrcpy
+ 1968  mkdir mymusic
+ 1969  mrdir mymusic/
+ 1970  rmdir mymusic/
+ 1971  mkdir my-music
+ 1972  cd my-music/
+ 1973  code .
+ 1974  npx create-react-app .
+ 1975  clear
+ 1976  npm start
+ 1977  git  init 
+ 1978  git remote add origin https://github.com/MM-Maketela/my-music.git
+ 1979  clear
+ 1980  git push
+ 1981  git push --set-upstream origin master
+ 1982  clear
+ 1983  git add .
+ 1984  git commit -m "fisrt commit"
+ 1985  clear
+ 1986  scrcpy
+ 1987  scrcpy
+ 1988  cd ..
+ 1989  clear
+ 1990  code .
+ 1991  mkdir git-basic-exercises
+ 1992  cd git-basic-exercises/
+ 1993  code .
+ 1994  ls -a
+ 1995  git init
+ 1996  ls -a 
+ 1997  git status 
+ 1998  clear
+ 1999  touch README.md
+ 2000  ls -a
+ 2001  git status
+ 2002  git log
+ 2003  clear
+ 2004  git add README.md 
+ 2005  git status
+ 2006  git rm --cached
+ 2007  git rm --cached -r
+ 2008  clear
+ 2009  git status
+ 2010  git rm --cached README.md 
+ 2011  clear
+ 2012  git status
+ 2013  git add README.md 
+ 2014  clear
+ 2015  git commit -m "initial commit"
+ 2016  clear
+ 2017  git log
+ 2018  git status
+ 2019  clear
+ 2020  nano README.md 
+ 2021  cat README.md 
+ 2022  clear
+ 2023  git status
+ 2024  git add README.md 
+ 2025  git commit -m "second commit"
+ 2026  nano README.md 
+ 2027  cat
+ 2028  clear
+ 2029  cat README.md 
+ 2030  clear
+ 2031  git log
+ 2032  clear
+ 2033  git status
+ 2034  git add 
+ 2035  git add README.md 
+ 2036  git status 
+ 2037  clear
+ 2038  git commint -m "third commit"
+ 2039  git commit -m "third commit"
+ 2040  clear
+ 2041  git log
+ 2042  clear
+ 2043  git log
+ 2044  clear
+ 2045  git checkout 8a25b5b8d0d3f3b313f9ae06dd574b227118a0b4
+ 2046  clear
+ 2047  git log
+ 2048  git checkout master
+ 2049  clear
+ 2050  git status
+ 2051  git checkout 8a25b5b8d0d3f3b313f9ae06dd574b227118a0b4
+ 2052  git status
+ 2053  git checkout master
+ 2054  clear
+ 2055  git brench
+ 2056  clear
+ 2057  git branch
+ 2058  git branch -M milkshake-flavours
+ 2059  git branch
+ 2060  git branch master
+ 2061  git checkout master
+ 2062  ls
+ 2063  cleasr
+ 2064  clear
+ 2065  git branch
+ 2066  git checout milkshake-flavours
+ 2067  git checkout milkshake-flavours
+ 2068  clear
+ 2069  git branch
+ 2070  nano milkshakes.md
+ 2071  clear
+ 2072  git status
+ 2073  git add milkshakes.md 
+ 2074  git commit -m "added initial flavours"
+ 2075  git status
+ 2076  git log
+ 2077  clear
+ 2078  git branch -M history
+ 2079  git branch
+ 2080  git checkout master
+ 2081  git branch
+ 2082  history
+ 2083  clear
+ 2084  git checkout milkshake-flavours
+ 2085  clear
+ 2086  git branch milkshake-flavours
+ 2087  git branch
+ 2088  git checkout milkshake-flavours
+ 2089  clear
+ 2090  nano milkshakes.md
+ 2091  git add milkshakes.md 
+ 2092  git commit -m "added initial flavours"
+ 2093  clear
+ 2094  git pog
+ 2095  git log
+ 2096  clear
+ 2097  git checkout master
+ 2098  git branch
+ 2099  git checkout milkshake-flavours
+ 2100  clear
+ 2101  git branch master
+ 2102  git checkout master
+ 2103  clear
+ 2104  git branch history
+ 2105  git checkout history
+ 2106  git branch -d history
+ 2107  git checkout master
+ 2108  clear
+ 2109  git branch -d history
+ 2110  git branch -D history
+ 2111  clear
+ 2112  git branch
+ 2113  git branch history
+ 2114  clear
+ 2115  git log
+ 2116  git branch 
+ 2117  clear
+ 2118  history > history.txt
+ 2119  git checkout history
+ 2120  clear
+ 2121  got log
+ 2122  git log
+ 2123  rm history.txt 
+ 2124  clear
+ 2125  history > history.txt.
+ 2126  rm history.txt. 
+ 2127  history > history.txt
